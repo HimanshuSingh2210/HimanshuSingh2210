@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HimanshuSingh2210
 - 👀 I’m interested in Data Science,Data Analyst
-- 🌱 I’m currently learning Machine learning and Power BI
-- 💞️ I’m looking to collaborate on Open Source Projects
+
+
 - 📫 How to reach me singhhimanshu756@gmail.com
 
 <!---
