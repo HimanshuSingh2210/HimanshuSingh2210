@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimanshuSingh2210
+- 👋 Hi, I’m Himanshu Singh
 - 👀 I’m interested in Data Science,Data Analyst
 
 
